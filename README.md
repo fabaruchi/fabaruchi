@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabaruchi 
 - 👀 I’m interested in becoming a <strong>Entry-Level Developer</strong>
 - 🌱 I’m currently learning
-<p style="color: solid yellow;">HTML, CSS, Python and Japanese!</p>
+- <p style="color:yellow;">HTML, CSS, Python and Japanese!</p>
 - 💞️ I’m looking to collaborate on with others in gaining experience in coding
 - 📫 How to reach me best would be my email: castrofabi@yahoo.com
 
