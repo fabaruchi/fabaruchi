@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fabaruchi 
 - 👀 I’m interested in becoming a <strong>Entry-Level Developer</strong>
-- 🌱 I’m currently learning <em>HTML, CSS, Javascript</em> and <em>Python</em>
+- 🌱 I like to use <em>HTML, CSS, Javascript</em> and <em>Python</em>
+- Currently learning IBM z/OS for System Adminstrator!
 - 💞️ I’m looking to collaborate on with others in gaining experience in coding
 - 📫 How to reach me best would be my email: castrofabi@yahoo.com
 
